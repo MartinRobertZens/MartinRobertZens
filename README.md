@@ -7,6 +7,10 @@
   <li>😄 Pronouns: he/him</li>
 </ul>
 
+<h2>💻Tech Stack:</h2>
+<ul>
+  <li><img src:"https://camo.githubusercontent.com/6f6bb7d3854c737e7548f212bdd17ccbea61c6ed644bd8da58c07c0d7d3c7602/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35"></li>
+</ul>
  
 
 
