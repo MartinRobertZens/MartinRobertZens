@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👨‍💻I'm currently working on Shopify Projects
+🌱 I’m currently learning JavaScrip & ReactJS 
+💬 Ask me about Shopify Store Set-Ups & WordPress customizations
+📫 How to reach me: martinzens.com
+😄 Pronouns: he/him
+
 <!--
 **MartinRobertZens/MartinRobertZens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
