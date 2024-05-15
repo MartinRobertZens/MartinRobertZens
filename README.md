@@ -17,6 +17,10 @@
   <li>Liquid (Shopify)</li>
   
 </ul>
+
+<h2>🔧Tools</h2>
+<li>VS Code</li>
+<li>Git (Version COntrol)</li>
  
 
 
