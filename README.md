@@ -9,10 +9,13 @@
 
 <h2>💻Tech Stack:</h2>
 <ul>
-  <li> 
-    <img scr:"https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg">
-    
-  </li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>JavaScript</li>
+  <li>jQuery</li>
+  <li>Liquid (Shopify)</li>
+  
 </ul>
  
 
